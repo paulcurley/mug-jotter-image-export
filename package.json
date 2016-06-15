@@ -1,0 +1,22 @@
+{
+  "name": "mug-jotter-image-export",
+  "version": "1.0.0",
+  "description": "Image export tool for Facebook 2.6v API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulcurley/mug-jotter-image-export.git"
+  },
+  "author": "Paul Curley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulcurley/mug-jotter-image-export/issues"
+  },
+  "engines": {
+    "node": "4.3.2"
+  },
+  "homepage": "https://github.com/paulcurley/mug-jotter-image-export#readme"
+}
